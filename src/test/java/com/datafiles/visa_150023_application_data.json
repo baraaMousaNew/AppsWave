@@ -1,0 +1,28 @@
+{
+  "application_info": {
+
+  "valid": {
+    "organizationName": "Test Organization",
+    "telephone": "501234567",
+    "countryOfResidence": "Jordan",
+    "visitPurpose": "Educational Programs",
+    "purposeDetails": "Test Details",
+    "visitDate": "07/25/2022",
+    "visitTime": "08:26 AM",
+    "visitDuration": "1 hrs",
+    "totalNumberOfVisitors": "2",
+    "requestRemarks": "Test"
+    },
+  "invalid": {
+    "telephone": "501234567",
+    "countryOfResidence": "Jordan",
+    "visitPurpose": "Educational Programs",
+    "purposeDetails": "Test Details",
+    "visitDate": "07/25/2022",
+    "visitTime": "08:26 AM",
+    "visitDuration": "1 hrs",
+    "totalNumberOfVisitors": "2",
+    "requestRemarks": "Test"
+    }
+  }
+}
